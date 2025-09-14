@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1743262596 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\main.cpp
+	<iostream>
+	"Nev.h"
+	"Cim.h"
+	"Tel.h"
+	"Profil.h"
+	"Telefonkonyv.h"
+	<string>
+	"memtrace.h"
+	"memtrace.h"
+
+1743183852 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\nev.h
+	<string>
+	<iostream>
+
+1743184449 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\nev.cpp
+	"Nev.h"
+	<string>
+	<iostream>
+	"memtrace.h"
+
+1743184203 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\cim.cpp
+	"Cim.h"
+	"memtrace.h"
+
+1743184054 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\cim.h
+	<string>
+	<iostream>
+
+1743263332 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\tel.cpp
+	"Tel.h"
+	"memtrace.h"
+	<string>
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1743184309 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\tel.h
+	<string>
+	<iostream>
+
+1743182140 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\profil.cpp
+	"Profil.h"
+	"memtrace.h"
+
+1743182141 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\profil.h
+	"Nev.h"
+	"Cim.h"
+	"Tel.h"
+	<iostream>
+
+1743262951 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\telefonkonyv.cpp
+	"Telefonkonyv.h"
+	"memtrace.h"
+
+1743261320 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\telefonkonyv.h
+	"Profil.h"
+	<iostream>
+
+1741884978 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+
+1741884978 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\telefonkönyv\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1744633127 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\cim.cpp
+	"cim.h"
+	"string.h"
+	"memtrace.h"
+	<cstring>
+	<algorithm>
+
+1743935076 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\cim.h
+	<iostream>
+	"string.h"
+	<iostream>
+
+1743850253 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1744720311 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\main.cpp
+	<iostream>
+	"nev.h"
+	"cim.h"
+	"tel.h"
+	"profil.h"
+	"telefonkonyv.h"
+	"string.h"
+	"memtrace.h"
+	"gtest_lite.h"
+	"teszt.h"
+	"menuk.h"
+
+1744633213 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\nev.h
+	<iostream>
+	"string.h"
+
+1743680045 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\string5.h
+	<iostream>
+
+1743935215 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\tel.h
+	"string.h"
+	<iostream>
+
+1744633187 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\profil.h
+	"nev.h"
+	"cim.h"
+	"tel.h"
+	<iostream>
+
+1744633196 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\telefonkonyv.h
+	"profil.h"
+	<iostream>
+
+1743849520 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1744633147 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\profil.cpp
+	"profil.h"
+	"memtrace.h"
+
+1744633155 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\tel.cpp
+	"tel.h"
+	"string.h"
+	"memtrace.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1744633160 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\telefonkonyv.cpp
+	"telefonkonyv.h"
+	"memtrace.h"
+
+1743675493 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1744639332 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\nev.cpp
+	"nev.h"
+	"string.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+	"memtrace.h"
+	<cstring>
+
+1744636533 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\teszt.cpp
+	<iostream>
+	"nev.h"
+	"cim.h"
+	"tel.h"
+	"profil.h"
+	"telefonkonyv.h"
+	"string.h"
+	"memtrace.h"
+	"gtest_lite.h"
+
+1741888578 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1747485966 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\string.h
+	<iostream>
+
+1747485966 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\string.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string.h"
+
+1744461170 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\teszt.h
+
+1744461020 c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\menuk.h
+
+1744301592 source:c:\users\fonok1\desktop\gyakorlás\c++ programozás\házi\saját\most új\telefonkonyv\menuk.cpp
+	"teszt.h"
+	<iostream>
+	"telefonkonyv.h"
+
