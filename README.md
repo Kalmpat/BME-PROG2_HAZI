@@ -17,10 +17,10 @@ Tervezze meg egy telefonkönyv alkalmazás egyszerűsített objektummodelljét, 
 
 Az alkalmazással minimum a következő műveleteket kívánjuk elvégezni:
 
-•	adatok felvétele
-•	listázás
-•	adatok törlése
-•	egyszerű keresés
+•	adatok felvétele 
+•	listázás 
+•	adatok törlése 
+•	egyszerű keresés 
 
 A rendszer lehet bővebb funkcionalitású ezért nagyon fontos, hogy jól határozom meg az objektumokat. Demonstrálom a működést külön modulként tesztprogrammal! A megoldáshoz nem használok STL tárolót!
 
