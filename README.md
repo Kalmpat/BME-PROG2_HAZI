@@ -4,26 +4,26 @@
 
 Tervezze meg egy telefonkönyv alkalmazás egyszerűsített objektummodelljét, majd valósítsa azt meg! A telefonkönyvben az alábbi adatokat akarjuk tárolni:
 
-•	név (vezetéknév, keresztnév)
+•	*név (vezetéknév, keresztnév)*
 
-•	becenév
+•	*becenév*
 
-•	cím
+•	*cím*
 
-•	munkahelyi szám
+•	*munkahelyi szám*
 
-•	privát szám
+•	*privát szám*
 
 
 Az alkalmazással minimum a következő műveleteket kívánjuk elvégezni:
 
-•	adatok felvétele 
+•	*adatok felvétele* 
 
-•	listázás
+•	*listázás*
 
-•	adatok törlése
+•	*adatok törlése*
 
-•	egyszerű keresés 
+•	*egyszerű keresés* 
 
 A rendszer lehet bővebb funkcionalitású ezért nagyon fontos, hogy jól határozom meg az objektumokat. Demonstrálom a működést külön modulként tesztprogrammal! A megoldáshoz nem használok STL tárolót!
 
