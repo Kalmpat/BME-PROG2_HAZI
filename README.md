@@ -1,14 +1,19 @@
 # BME-PROG2_HAZI
 
-##Telefonkönyv!
+##Telefonkönyv!##
 
 Tervezze meg egy telefonkönyv alkalmazás egyszerűsített objektummodelljét, majd valósítsa azt meg! A telefonkönyvben az alábbi adatokat akarjuk tárolni:
 
 •	név (vezetéknév, keresztnév)
+
 •	becenév
+
 •	cím
+
 •	munkahelyi szám
+
 •	privát szám
+
 
 Az alkalmazással minimum a következő műveleteket kívánjuk elvégezni:
 
@@ -18,7 +23,8 @@ Az alkalmazással minimum a következő műveleteket kívánjuk elvégezni:
 •	egyszerű keresés
 
 A rendszer lehet bővebb funkcionalitású ezért nagyon fontos, hogy jól határozom meg az objektumokat. Demonstrálom a működést külön modulként tesztprogrammal! A megoldáshoz nem használok STL tárolót!
-2.	Feladatspecifikáció
+
+##Feladatspecifikáció##
 
 A feladat egy egyszerű elektronikus telefonkönyv alkalmazás megtervezése és megvalósítása objektumorientált rendszer alapján. Mivel a telefonkönyvben tetszőleges számú 
 bejegyzést kívánunk tárolni, az adatokat dinamikus memóriakezeléssel kezeljük. 
